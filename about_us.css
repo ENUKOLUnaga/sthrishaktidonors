@@ -1,4 +1,4 @@
-#ab-head{
+ #ab-head{
     align-items: center;
     margin-left: 45%;
 }
@@ -22,7 +22,7 @@
 }
 
 #but-cli{
-    margin-left: 20%;
+    margin-left: 10%;
     margin-top: 5%;
     background-color: skyblue;
     padding: 5px 20px 5px 20px;
@@ -49,3 +49,4 @@
 }
 
    
+ 
