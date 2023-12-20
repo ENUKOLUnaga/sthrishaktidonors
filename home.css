@@ -2,6 +2,7 @@ body{
     background-color: white;
     margin: 0;
     padding: 0;
+    max-width: none;
     /* height:10; */
 }
 .header{
@@ -94,11 +95,10 @@ body{
     display: flex;
     justify-content: center;
  
-    width: 20%;
+    width: 10%;
     height: 7%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 20%;
+    margin: 10%;
+    
     
 }
 
@@ -176,12 +176,13 @@ nav a:hover {
     display: flex;
     flex-direction: row;
     margin-top:3%;
+    align-items: center;
     
-    justify-content: space-between
+    justify-content: space-between;
 }
 .don-to{
     margin: 20%;
-    
+
     
 }
 
