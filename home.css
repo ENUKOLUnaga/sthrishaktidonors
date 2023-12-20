@@ -1,0 +1,187 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    /* height:10; */
+}
+.header{
+    align-items: center; 
+    background-color:#be29ec;
+    display: flex; 
+    flex-direction: row;
+    color: black;
+    justify-content: flex-end;
+    height: fit-content;
+
+}
+
+
+.logo img{
+   height: 0;
+   width: 0;
+   margin: 1px;
+   justify-content: flex-start;
+
+}
+.header2{
+    align-items: flex-end;
+    font-weight: 100;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: 5px;
+    margin-left: 400px;
+    font-family: sans-serif;
+    color: black;
+    padding: 5px;
+    
+}
+
+
+
+ #one{
+    padding: 2px;
+    margin: 2px;
+}
+#two{
+    padding: 2px;
+    margin:2px;
+}
+#three{
+    padding: 2px;
+    margin: 2px;
+}
+#four{
+    padding: 2px;
+    margin: 2px;
+} 
+
+    
+
+
+
+.donate-main{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.donate-quote{
+    align-items: center;
+    align-content: center;
+    
+    padding-bottom: 10%;
+    padding-left:10% ;
+    padding-top: 10%;
+}
+#on{
+    margin-right: 3%;
+}
+#tw{
+    margin-right: 3%;
+}
+#th{
+    margin-right: 3%;
+}
+#fo{
+    margin-right: 3%;
+}
+
+.donate{
+    align-items: center;
+    align-content: center;
+    background-color: rgb(56, 202, 202);
+    display: flex;
+    justify-content: center;
+ 
+    width: 20%;
+    height: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+}
+
+
+
+
+footer {
+    background-color: #333;
+    color: white;
+    
+    
+}
+
+
+
+
+
+/* Style for contact details widget */
+
+.social-media-icons{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.social-media-icons a {
+    color: white;
+    margin-right: 10px;
+    justify-content: center;
+}
+
+
+
+/* Style for logo and copyright widget */
+.logo-copyright {
+    text-align: center;
+}
+
+
+
+header {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0.5em;
+    font-size: 1.5em;
+}
+
+nav {
+    background-color: rgb(197, 19, 206);
+    overflow: hidden;
+    text-align: right;
+}
+
+nav a {
+    float: right;
+    margin-right: 4px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    /* border-radius: 30px; */
+}
+
+
+.nav-log{
+    float: inline-end;
+}
+.main-foot{
+    display: flex;
+    flex-direction: row;
+    margin-top:3%;
+    
+    justify-content: space-between
+}
+.don-to{
+    margin: 20%;
+    
+    
+}
+
